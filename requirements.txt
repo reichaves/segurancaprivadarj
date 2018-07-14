@@ -1,0 +1,8 @@
+pandas
+unidecode
+xlrd
+openpyxl
+tabula-py
+pathlib
+googlemaps
+google_streetview
