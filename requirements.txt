@@ -1,4 +1,5 @@
 pandas
+jupyterlab
 unidecode
 xlrd
 openpyxl
