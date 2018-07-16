@@ -16,5 +16,5 @@
 
 7 - Realiza somas e operações nos conjuntos de dados para conclusões finais
 
-Esse trabalho foi feito em conjunto de Breno Costa e Hyuri Potter para a [The Intercept Brasil](https://theintercept.com/brasil/)
+Esse trabalho (python 3.6) foi feito em conjunto de Breno Costa e Hyuri Potter para a [The Intercept Brasil](https://theintercept.com/brasil/)
  e depois gerou essa [reportagem](https://theintercept.com/2018/07/16/o-lucrativo-exercito-de-seguranca-privada-comandado-por-militares-milicianos-e-amigos-de-eduardo-cunha-no-rio/)
